@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="ApplicationName">Hard with Million</string>
+  <string name="StartGame">Rozpocznij grę</string>
+  <string name="Highscore">Ranking</string>
+  <string name="EndGame">Zakończ</string>
+</resources>

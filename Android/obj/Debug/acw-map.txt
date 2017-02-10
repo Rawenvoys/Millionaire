@@ -1,0 +1,16 @@
+Android.GameActivity, Android;md5b458cc81312dcbd199d3a1508d254dfe.GameActivity
+Android.GameActivity, Android, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5b458cc81312dcbd199d3a1508d254dfe.GameActivity
+Android.GameActivity;md5b458cc81312dcbd199d3a1508d254dfe.GameActivity
+android.GameActivity;md5b458cc81312dcbd199d3a1508d254dfe.GameActivity
+Android.HighscoreActivity, Android;md5b458cc81312dcbd199d3a1508d254dfe.HighscoreActivity
+Android.HighscoreActivity, Android, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5b458cc81312dcbd199d3a1508d254dfe.HighscoreActivity
+Android.HighscoreActivity;md5b458cc81312dcbd199d3a1508d254dfe.HighscoreActivity
+android.HighscoreActivity;md5b458cc81312dcbd199d3a1508d254dfe.HighscoreActivity
+Android.MainActivity, Android;md5b458cc81312dcbd199d3a1508d254dfe.MainActivity
+Android.MainActivity, Android, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5b458cc81312dcbd199d3a1508d254dfe.MainActivity
+Android.MainActivity;md5b458cc81312dcbd199d3a1508d254dfe.MainActivity
+android.MainActivity;md5b458cc81312dcbd199d3a1508d254dfe.MainActivity
+Android.Adapters.HighscoreAdapter, Android;md5d03aaa6c62ef4110befd582d937a6b2e.HighscoreAdapter
+Android.Adapters.HighscoreAdapter, Android, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5d03aaa6c62ef4110befd582d937a6b2e.HighscoreAdapter
+Android.Adapters.HighscoreAdapter;md5d03aaa6c62ef4110befd582d937a6b2e.HighscoreAdapter
+android.adapters.HighscoreAdapter;md5d03aaa6c62ef4110befd582d937a6b2e.HighscoreAdapter
