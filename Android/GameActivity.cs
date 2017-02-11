@@ -13,7 +13,7 @@ using Android.Media;
 
 namespace Android
 {
-    [Activity(Label = "Nowa gra")]
+    [Activity(Label = "Nowa gra", ScreenOrientation = Content.PM.ScreenOrientation.Portrait)]
     public class GameActivity : Activity
     {
 
@@ -30,6 +30,16 @@ namespace Android
             firstLevel = MediaPlayer.Create(this, Resource.Raw.FirstLevel);
             firstLevel.Start();
         }
+
+
+        public override void OnBackPressed()
+        {
+            base.OnBackPressed();
+            firstLevel.Stop();
+        }
+     
+
+  
 
         public override bool OnTouchEvent(MotionEvent touchevent)
         {

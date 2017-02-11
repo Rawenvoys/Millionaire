@@ -14,8 +14,9 @@
         android:id="@+id/logoLayout">
         <ImageView
             android:src="@drawable/logo"
-            android:minHeight="250px"
-            android:minWidth="250px"
+            android:adjustViewBounds="true"
+            android:maxHeight="250px"
+            android:maxWidth="250px"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/logo" />

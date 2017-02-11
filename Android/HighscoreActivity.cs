@@ -14,7 +14,7 @@ using Android.Model;
 
 namespace Android
 {
-    [Activity(Label = "Ranking")]
+    [Activity(Label = "Ranking", ScreenOrientation = Content.PM.ScreenOrientation.Portrait)]
     public class HighscoreActivity : Activity
     {
         public List<Score> list;

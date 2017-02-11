@@ -5,9 +5,9 @@
   <uses-permission android:name="android.permission.INTERNET" />
   <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
   <application android:label="Hard With Million" android:icon="@drawable/logo" android:name="android.app.Application" android:allowBackup="true" android:debuggable="true">
-    <activity android:label="Nowa gra" android:name="md5b458cc81312dcbd199d3a1508d254dfe.GameActivity" />
-    <activity android:label="Ranking" android:name="md5b458cc81312dcbd199d3a1508d254dfe.HighscoreActivity" />
-    <activity android:icon="@drawable/logo" android:label="Hard with Million" android:name="md5b458cc81312dcbd199d3a1508d254dfe.MainActivity">
+    <activity android:label="Nowa gra" android:screenOrientation="portrait" android:name="md5b458cc81312dcbd199d3a1508d254dfe.GameActivity" />
+    <activity android:label="Ranking" android:screenOrientation="portrait" android:name="md5b458cc81312dcbd199d3a1508d254dfe.HighscoreActivity" />
+    <activity android:icon="@drawable/logo" android:label="Hard with Million" android:screenOrientation="portrait" android:name="md5b458cc81312dcbd199d3a1508d254dfe.MainActivity">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />
         <category android:name="android.intent.category.LAUNCHER" />

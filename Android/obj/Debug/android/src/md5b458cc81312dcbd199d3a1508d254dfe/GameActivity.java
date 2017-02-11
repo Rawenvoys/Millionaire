@@ -11,6 +11,7 @@ public class GameActivity
 	static {
 		__md_methods = 
 			"n_onCreate:(Landroid/os/Bundle;)V:GetOnCreate_Landroid_os_Bundle_Handler\n" +
+			"n_onBackPressed:()V:GetOnBackPressedHandler\n" +
 			"n_onTouchEvent:(Landroid/view/MotionEvent;)Z:GetOnTouchEvent_Landroid_view_MotionEvent_Handler\n" +
 			"";
 		mono.android.Runtime.register ("Android.GameActivity, Android, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", GameActivity.class, __md_methods);
@@ -31,6 +32,14 @@ public class GameActivity
 	}
 
 	private native void n_onCreate (android.os.Bundle p0);
+
+
+	public void onBackPressed ()
+	{
+		n_onBackPressed ();
+	}
+
+	private native void n_onBackPressed ();
 
 
 	public boolean onTouchEvent (android.view.MotionEvent p0)

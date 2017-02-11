@@ -5,7 +5,8 @@ using Android.Media;
 
 namespace Android
 {
-    [Activity(Label = "Hard with Million", MainLauncher = true, Icon = "@drawable/logo")]
+    [Activity(Label = "Hard with Million", MainLauncher = true, Icon = "@drawable/logo", ScreenOrientation =Content.PM.ScreenOrientation.Portrait)]
+
     public class MainActivity : Activity
     {
         private ImageView logo;
@@ -31,7 +32,8 @@ namespace Android
             {
                 mainTheme.Stop();
                 Finish();
-                Process.KillProcess(Process.MyPid());
+                base.OnDestroy();
+                //Process.KillProcess(Process.MyPid());
             };
 
             startGame.Click += delegate
@@ -45,9 +47,18 @@ namespace Android
                 mainTheme.Stop();
                 StartActivity(typeof(HighscoreActivity));
             };
+
+
            
 
             
+        }
+
+        protected override void OnRestart()
+        {
+            base.OnRestart();
+            mainTheme = MediaPlayer.Create(this, Resource.Raw.MainTheme);
+            mainTheme.Start();
         }
     }
 }
