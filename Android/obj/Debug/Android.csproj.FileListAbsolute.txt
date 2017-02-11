@@ -41,4 +41,32 @@ C:\Users\Lucato\Documents\Visual Studio 2015\Xamarin.Forms\Android\Android\obj\D
 C:\Users\Lucato\Documents\Visual Studio 2015\Xamarin.Forms\Android\Android\obj\Debug\res\layout\highscore.xml
 C:\Users\Lucato\Documents\Visual Studio 2015\Xamarin.Forms\Android\Android\obj\Debug\res\layout\highscorelistitem.xml
 C:\Users\Lucato\Documents\Visual Studio 2015\Xamarin.Forms\Android\Android\obj\Debug\Android.dll.mdb
-C:\Users\Lucato\Documents\Visual Studio 2015\Xamarin.Forms\Android\Android\bin\Debug\Android.dll.mdb
+C:\Users\Lucato\Source\Repos\Millionaire\Android\bin\Debug\Android.dll
+C:\Users\Lucato\Source\Repos\Millionaire\Android\bin\Debug\Android.pdb
+C:\Users\Lucato\Source\Repos\Millionaire\Android\bin\Debug\com.lucato.hardwithmillion.apk
+C:\Users\Lucato\Source\Repos\Millionaire\Android\bin\Debug\com.lucato.hardwithmillion-Signed.apk
+C:\Users\Lucato\Source\Repos\Millionaire\Android\bin\Debug\SQLite-net.dll
+C:\Users\Lucato\Source\Repos\Millionaire\Android\bin\Debug\SQLitePCL.raw.dll
+C:\Users\Lucato\Source\Repos\Millionaire\Android\bin\Debug\SQLite-net.dll.mdb
+C:\Users\Lucato\Source\Repos\Millionaire\Android\obj\Debug\Android.dll
+C:\Users\Lucato\Source\Repos\Millionaire\Android\obj\Debug\Android.pdb
+C:\Users\Lucato\Source\Repos\Millionaire\Android\obj\Debug\android\bin\com.lucato.hardwithmillion.apk
+C:\Users\Lucato\Source\Repos\Millionaire\Android\obj\Debug\res\layout\game.xml
+C:\Users\Lucato\Source\Repos\Millionaire\Android\obj\Debug\res\layout\highscore.xml
+C:\Users\Lucato\Source\Repos\Millionaire\Android\obj\Debug\res\layout\highscorelistitem.xml
+C:\Users\Lucato\Source\Repos\Millionaire\Android\obj\Debug\res\layout\main.xml
+C:\Users\Lucato\Source\Repos\Millionaire\Android\obj\Debug\res\values\strings.xml
+C:\Users\Lucato\Source\Repos\Millionaire\Android\obj\Debug\res\drawable\icon.png
+C:\Users\Lucato\Source\Repos\Millionaire\Android\obj\Debug\res\drawable\logo.png
+C:\Users\Lucato\Source\Repos\Millionaire\Android\obj\Debug\res\raw\maintheme.mp3
+C:\Users\Lucato\Source\Repos\Millionaire\Android\obj\Debug\R.cs.flag
+C:\Users\Lucato\Source\Repos\Millionaire\Android\obj\Debug\uploadflags.txt
+C:\Users\Lucato\Source\Repos\Millionaire\Android\obj\Debug\res\layout\levels.xml
+C:\Users\Lucato\Source\Repos\Millionaire\Android\obj\Debug\res\anim\slideinleft.xml
+C:\Users\Lucato\Source\Repos\Millionaire\Android\obj\Debug\res\anim\slideinright.xml
+C:\Users\Lucato\Source\Repos\Millionaire\Android\obj\Debug\res\anim\slideoutleft.xml
+C:\Users\Lucato\Source\Repos\Millionaire\Android\obj\Debug\res\anim\slideoutright.xml
+C:\Users\Lucato\Source\Repos\Millionaire\Android\obj\Debug\res\drawable\activity2test.png
+C:\Users\Lucato\Source\Repos\Millionaire\Android\obj\Debug\res\drawable\activity1test.png
+C:\Users\Lucato\Source\Repos\Millionaire\Android\obj\Debug\Android.dll.mdb
+C:\Users\Lucato\Source\Repos\Millionaire\Android\bin\Debug\Android.dll.mdb
