@@ -9,6 +9,7 @@ using Android.OS;
 using Android.Runtime;
 using Android.Views;
 using Android.Widget;
+using Android.Media;
 
 namespace Android
 {
@@ -16,12 +17,18 @@ namespace Android
     public class GameActivity : Activity
     {
 
-        float x1, x2;
+        private float x1, x2;
+        private MediaPlayer firstLevel;
+        private int winSize;
+        private int guaranteed;
+
+
         protected override void OnCreate(Bundle savedInstanceState)
         {
             base.OnCreate(savedInstanceState);
             SetContentView(Resource.Layout.Game);
-
+            firstLevel = MediaPlayer.Create(this, Resource.Raw.FirstLevel);
+            firstLevel.Start();
         }
 
         public override bool OnTouchEvent(MotionEvent touchevent)
@@ -50,9 +57,7 @@ namespace Android
                             SetContentView(Resource.Layout.Levels);
                             OverridePendingTransition(Resource.Animation.SlideInRight, Resource.Animation.SlideOutLeft);
                         }
-
-
-
+                                               
                         break;
                     }
             }

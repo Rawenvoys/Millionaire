@@ -169,7 +169,10 @@ namespace Android
 		{
 			
 			// aapt resource value: 0x7f050000
-			public const int MainTheme = 2131034112;
+			public const int FirstLevel = 2131034112;
+			
+			// aapt resource value: 0x7f050001
+			public const int MainTheme = 2131034113;
 			
 			static Raw()
 			{
